@@ -1,0 +1,2 @@
+# STM32F1-STD-V3.5
+STM3232F10x_StdPeriph_Lib_V3.5.0
